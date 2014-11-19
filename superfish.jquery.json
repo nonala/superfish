@@ -21,5 +21,5 @@
     "bugs": "https://github.com/joeldbirch/superfish/issues",
     "homepage": "http://users.tpg.com.au/j_birch/plugins/superfish/",
     "docs": "http://users.tpg.com.au/j_birch/plugins/superfish/",
-    "dependencies": { }
+    "dependencies": { "jquery": ">=2.1.1"}
 }
