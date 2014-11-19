@@ -22,6 +22,6 @@
     "homepage": "http://users.tpg.com.au/j_birch/plugins/superfish/",
     "docs": "http://users.tpg.com.au/j_birch/plugins/superfish/",
     "dependencies": {
-        "jquery": ">=1.8"
+        "jquery": ">= 2.1.1"
     }
 }
